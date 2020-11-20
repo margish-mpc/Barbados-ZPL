@@ -1,0 +1,20 @@
+^XA
+
+^FB1200,3,50,C,0
+^FO0,30
+^A0N,350,400
+^FDLMNOP
+^FS
+
+^FB900,3,50,C,0
+^FO0,485
+^A0N,130,100
+^FDABCDEFGHIJKLMNOP
+^FS
+
+^FO970,350
+^BQN,2,7,H
+^FD  https://www.reelsense.io/plate/view/?id=ABCDEFGHIJKLMNOP
+^FS
+
+^XZ
