@@ -13,7 +13,7 @@
 ^FDABCDEFGHIJKLMNOP
 ^FS
 
-^FO950,330
+^FO950,350
 ^BQN,2,7,H
 ^FD  https://www.reelsense.io/plate/view/?id=ABCDEFGHIJKLMNOP
 ^FS
