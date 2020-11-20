@@ -14,7 +14,7 @@
 ^FDABCDEFGHIJKLMNOP
 ^FS
 
-^FO970,370
+^FO970,350
 ^BQN,2,7,H
 ^FD  https://www.reelsense.io/plate/view/?id=ABCDEFGHIJKLMNOP
 ^FS
