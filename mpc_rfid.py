@@ -75,7 +75,7 @@ def read_uid():
             ser.write(SUCCESS_BEEP.encode('ascii'))
             return b                        # returns found UID
     except:
-        ser.write(FAILURE_BEEP.encode('ascii'))
+        # ser.write(FAILURE_BEEP.encode('ascii'))
         time.sleep(0.05)
         return Message2                     # Please tap badge near reader
 
@@ -105,7 +105,7 @@ def read_new():
                 time.sleep(0.5)
             else:
                 print(Response)  # incase of error
-                ser.write(FAILURE_BEEP.encode('ascii'))
+                # ser.write(FAILURE_BEEP.encode('ascii'))
                 time.sleep(0.5)
                 c = 1
     except serial.SerialException:
