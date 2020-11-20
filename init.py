@@ -4,7 +4,7 @@ import mpc_rfid
 
 def main():
     # TODO: implement RFID reader implementation
-    # entered_uid = mpc_rfid.read()
+    # entered_uid = mpc_rfid.read_new()
     # mpc_zebra.print_label(entered_uid)
 
     # sample test call. WHILE TESTING PLEASE COMMENT THIS LINE
