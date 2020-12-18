@@ -15,6 +15,11 @@ def main():
 
 if __name__ == '__main__':
     # main()
-    print(f"Arguments count: {len(sys.argv)}")
+    print("Arguments count: {len(sys.argv)}")
     for i, arg in enumerate(sys.argv):
         print(f"Argument {i:>6}: {arg}")
+    print("\n\n")
+    print('Zebra Printer IP Addr for 4"x1": %s' % (sys.argv[1]))
+    print('Zebra Printer IP Addr for 2"x1": %s' % (sys.argv[2]))
+    print('nRF device ID: %s' % (sys.argv[3]))
+    print('MPC serial number: %s' % (sys.argv[4]))
